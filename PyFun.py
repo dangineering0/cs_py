@@ -1,22 +1,10 @@
 class PyFun(object):
-    def dict1(n):
+    def zeroes(self, nums):
+        visited = [[False * 4] * 4]
 
-        d = {}
-        d["a"] = 1
-        d["b"] = "c"
 
-        for k in d.items():
-            print(k)
+visited = [[False]* 4] * 4
+f = [True] * 2
+f.extend([True]) #extend takes in a iterable
 
-    def nums():
-        lst = []
-        for x in range(9):  #0.... 8
-            lst.append(x)
-
-        print(lst)
-
-    def itt(nums):
-        for position, element in enumerate(nums):
-            print(position, element)
-
-PyFun.itt([4,3,23,2,3])
+print(f)
