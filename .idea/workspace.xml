@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41872d60-8c45-4a7e-acb1-584d976baef4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HouseRobber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MergeIntervals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreeSum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WordSearch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numDecoding.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveZeroesTest.py" afterPath="$PROJECT_DIR$/AddBinary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllCombinations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LCA.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhoneNumLetter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringPerms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WordBreak.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterviewPy.iml" afterPath="$PROJECT_DIR$/.idea/InterviewPy.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MoveZeroes.py" afterPath="$PROJECT_DIR$/MoveZeroes.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PyFun.py" afterPath="$PROJECT_DIR$/PyFun.py" />
     </list>
     <ignored path="InterviewPy.iws" />
@@ -37,28 +34,68 @@
       <file leaf-file-name="MoveZeroes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MoveZeroes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="152">
               <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PyFun.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PyFun.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyFun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddBinary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddBinary.py">
+      <file leaf-file-name="WordBreak.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordBreak.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="361">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringPerms.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StringPerms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllCombinations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AllCombinations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhoneNumLetter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PhoneNumLetter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -67,7 +104,7 @@
       <file leaf-file-name="numDecoding.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/numDecoding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
+            <state relative-caret-position="589">
               <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
               <folding />
             </state>
@@ -77,28 +114,8 @@
       <file leaf-file-name="ThreeSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThreeSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="532">
               <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeIntervals.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MergeIntervals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="48" column="56" selection-start-line="33" selection-start-column="8" selection-end-line="48" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HouseRobber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HouseRobber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -107,18 +124,8 @@
       <file leaf-file-name="WordSearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WordSearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="266">
               <caret line="14" column="56" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/776880377/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="2760" column="8" selection-start-line="2760" selection-start-column="8" selection-end-line="2760" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -147,15 +154,20 @@
         <option value="$PROJECT_DIR$/HouseRobber.py" />
         <option value="$PROJECT_DIR$/WordSearch.py" />
         <option value="$PROJECT_DIR$/MoveZeroes.py" />
+        <option value="$PROJECT_DIR$/AllCombinations.py" />
+        <option value="$PROJECT_DIR$/PhoneNumLetter.py" />
+        <option value="$PROJECT_DIR$/LCA.py" />
         <option value="$PROJECT_DIR$/PyFun.py" />
+        <option value="$PROJECT_DIR$/WordBreak.py" />
+        <option value="$PROJECT_DIR$/StringPerms.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="404" />
-    <option name="y" value="365" />
-    <option name="width" value="1760" />
-    <option name="height" value="993" />
+    <option name="x" value="653" />
+    <option name="y" value="23" />
+    <option name="width" value="1150" />
+    <option name="height" value="1097" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -183,6 +195,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,83 +216,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.PyFun">
-    <configuration default="false" name="numDecoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="InterviewPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numDecoding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ThreeSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="InterviewPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThreeSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MergeIntervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="InterviewPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeIntervals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="HouseRobber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="InterviewPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HouseRobber.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.StringPerms">
     <configuration default="false" name="PyFun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,6 +237,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewPy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyFun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AllCombinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InterviewPy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AllCombinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PhoneNumLetter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InterviewPy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PhoneNumLetter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InterviewPy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordBreak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringPerms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="InterviewPy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringPerms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -432,19 +444,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.numDecoding" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ThreeSum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MergeIntervals" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HouseRobber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PyFun" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PyFun" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AllCombinations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PhoneNumLetter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.WordBreak" />
+      <item index="4" class="java.lang.String" itemvalue="Python.StringPerms" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PyFun" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HouseRobber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MergeIntervals" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ThreeSum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.numDecoding" />
+        <item index="0" class="java.lang.String" itemvalue="Python.StringPerms" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WordBreak" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PyFun" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PhoneNumLetter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AllCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -462,19 +474,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="404" y="365" width="1760" height="993" extended-state="0" />
+    <frame x="653" y="23" width="1150" height="1097" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16331224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18695652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22812846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22762646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34819898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34727627" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,11 +506,6 @@
           <url>file://$PROJECT_DIR$/PyFun.py</url>
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/PyFun.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/AddBinary.py</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
@@ -508,12 +515,109 @@
           <line>26</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/WordBreak.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/WordBreak.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/WordBreak.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/WordBreak.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/StringPerms.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MoveZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyFun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddBinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numDecoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeIntervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="56" selection-start-line="33" selection-start-column="8" selection-end-line="48" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseRobber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/776880377/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52440">
+          <caret line="2760" column="8" selection-start-line="2760" selection-start-column="8" selection-end-line="2760" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MoveZeroes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -538,25 +642,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoveZeroesTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MoveZeroesTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MoveZeroesTest.py" />
+    <entry file="file://$PROJECT_DIR$/MoveZeroesTest.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/776880377/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="52440">
           <caret line="2760" column="8" selection-start-line="2760" selection-start-column="8" selection-end-line="2760" selection-end-column="8" />
           <folding />
         </state>
@@ -564,7 +654,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddBinary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="513">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding />
         </state>
@@ -572,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MergeIntervals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
+        <state relative-caret-position="912">
           <caret line="48" column="56" selection-start-line="33" selection-start-column="8" selection-end-line="48" selection-end-column="56" />
           <folding />
         </state>
@@ -580,7 +670,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HouseRobber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="285">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding />
         </state>
@@ -588,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ThreeSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="532">
           <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding />
         </state>
@@ -596,7 +686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MoveZeroes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="152">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
@@ -604,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/numDecoding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
+        <state relative-caret-position="589">
           <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
           <folding />
         </state>
@@ -612,16 +702,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WordSearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="266">
           <caret line="14" column="56" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllCombinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PhoneNumLetter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PyFun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="76">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordBreak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringPerms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
