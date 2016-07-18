@@ -1,6 +1,5 @@
-a = {}
+strs = "Dan"
 
-a = 1
 
-print(isinstance(a, bool))
 
+print (strs[:1] + ' ' + strs[1:])
