@@ -1,6 +1,5 @@
-a = {}
+strs = "Dan"
 
-a = 1
 
-print(isinstance(a, bool))
-
+for c in strs:
+    print(c)
