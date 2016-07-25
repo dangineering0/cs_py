@@ -15,6 +15,7 @@ def minChange(index, denoms, target, numsSoFar, res):
 
     k = 0
     for x in range(index, len(denoms)):
+        # key to create copy of list
         n = list(numsSoFar)
         n.append(denoms[x])
         minChange(x, denoms, target - denoms[x], n, res)

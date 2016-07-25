@@ -1,5 +1,5 @@
 strs = "Dan"
 
 
-
-print (strs[:1] + ' ' + strs[1:])
+for c in strs:
+    print(c)
