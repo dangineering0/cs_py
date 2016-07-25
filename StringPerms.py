@@ -9,15 +9,11 @@ def stringPerms(s):
         tempLst = []
         for string in res:
             for k in range(len(string)+1):
-                tempLst.append(string[:k] + curLetter + string[k:])
+                if (string[:k] + curLetter + string[k:]) not in tempLst:
+                    tempLst.append(string[:k] + curLetter + string[k:])
         res = tempLst
 
     return res
 
 
-print(stringPerms("abc"))
-
-
-t = "cba"
-
-print(sorted(t))
+print(stringPerms("aaa"))
